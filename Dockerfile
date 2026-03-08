@@ -20,3 +20,4 @@ COPY link_bypass_bot.py .
 # Run the bot
 CMD ["python3", "-u", "link_bypass_bot.py"]
 
+EXPOSE 7860
